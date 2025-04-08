@@ -8,7 +8,7 @@
 
 ```pip install django```
 
-### Далее накатываем npm пакеты через npm install
+### Далее устанавливаем npm пакеты через npm install
 
 ```npm install```
 
